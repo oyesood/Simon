@@ -1,13 +1,28 @@
 body {
   text-align: center;
-  background-color: #011F3F;
+  background-color: #14213D;
+}
+nav ul {
+  list-style-type: none;
+  padding: 42%;
+}
+
+nav {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 23px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  background-color: #FCA311;
+  padding: 0 12px;
+  color: #14213D;
 }
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
   margin:  5%;
-  color: #FEF2BF;
+  color: #FCA311;
 }
 
 .container {
